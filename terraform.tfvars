@@ -1,0 +1,7 @@
+ami_id = "ami-053b0d53c279acc90"
+instance_type = "t2.micro"
+key_name = "rhelecinstancekey-v2"
+sg-name = "prod-deployment-sg"
+subnet_az = "us-east-1a"
+vpc-cidr = "10.0.0.0/16"
+provider-region = "us-east-1"
